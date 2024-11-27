@@ -1,1 +1,2 @@
-# investment-clustering
+# Chicago Area Investment Quality Clustering #
+
